@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.image-3-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2690px;
+  height: 1750px;
+  object-fit: cover;
+  display: none;
+  opacity: 0.2;
+}
+.slide-169-1-child {
+  position: absolute;
+  top: 239px;
+  left: 621px;
+  background-color: #48377c;
+  filter: blur(400px);
+  width: 1444px;
+  height: 1511px;
+  display: none;
+  opacity: 0.5;
+}
+.ps2 {
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #f9f6ff,
+    #c9bcf1 49.22%,
+    #8a70da
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ps-world2 {
+  position: absolute;
+  top: 63px;
+  left: 1137px;
+  font-weight: 900;
+  display: none;
+}
+.px-figma-logo-1-icon {
+  position: absolute;
+  top: 1473px;
+  left: 87px;
+  width: 127px;
+  height: 190px;
+  object-fit: cover;
+  display: none;
+}
+.slide-169-1 {
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #221a3c;
+  width: 100%;
+  height: 1750px;
+  overflow: hidden;
+  display: none;
+  text-align: left;
+  font-size: 96px;
+  color: var(--color-whitesmoke);
+  font-family: var(--font-raleway);
+}

@@ -1,0 +1,27 @@
+:root {
+  /* fonts */
+  --font-raleway: Raleway;
+  --font-inter: Inter;
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-xs: 14px;
+  --font-size-sm: 16px;
+  --font-size-base: 20px;
+  --font-size-lg: 32px;
+  --font-size-xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke: #eee;
+
+  /* Gaps */
+  --gap-sm: 20px;
+  --gap-md: 23px;
+  --gap-lg: 26px;
+
+  /* border radiuses */
+  --br-sm: 25px;
+  --br-md: 25.86px;
+  --br-lg: 63px;
+}
